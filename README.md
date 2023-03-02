@@ -1,2 +1,1 @@
-# Genitic-data-classification
-This project includes RNA seq data exploration , preprocessing and training of several classifiers with Bayesian hyperparameter tuning  
+This Git repository features a project focused on classifying genetic data. The project encompasses exploration and preprocessing of RNA seq data, as well as training multiple classifiers using Bayesian hyperparameter tuning. Data exploration and preparation were conducted in a Jupyter notebook, while model training occurred in a PyCharm environment with a separate instance for each type of classifier. Evaluation of the models was based on accuracy scores for both the basic data and the metadata.
